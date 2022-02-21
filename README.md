@@ -1,6 +1,6 @@
 # Javascript Whack-A-Mole
 
-## Vanilla JavaScript, CSS, and a couple image assets can make for a pretty fun little game :)🍦 
+### Vanilla JavaScript, CSS, and a couple image assets can make for a pretty fun little game :)🍦 
 
 ## Check out the [Live Demo](https://ryellingson.github.io/javascript-whack-a-mole/)!!!
 
