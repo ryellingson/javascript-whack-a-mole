@@ -69,6 +69,36 @@ html {
     position: relative;
   }
 
+  .hole1 {
+    top: -54px;
+    left: -77px;
+  }
+
+  .hole2 {
+    top: 0px;
+    left: 20px;
+  }
+
+  .hole3 {
+    top: -46px;
+    left: 100px;
+  }
+
+  .hole4 {
+    top: -54px;
+    left: -77px;
+  }
+
+  .hole5 {
+    top: -3px;
+    left: -57px;
+  }
+
+  .hole6 {
+    top: -47px;
+    left: 29px;
+  }
+
   .hole:hover {
     cursor: url("mallet.png"), auto;
   }
