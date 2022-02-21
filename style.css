@@ -68,6 +68,10 @@ html {
     overflow: hidden;
     position: relative;
   }
+
+  .hole:hover {
+    cursor: url("mallet.png"), auto;
+  }
   
   .hole:after {
     display: block;
