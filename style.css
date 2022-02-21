@@ -1,7 +1,10 @@
 html {
     box-sizing: border-box;
     font-size: 10px;
-    background: #14742c;
+    background-image: url(grass.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 49% 56%;
   }
   
   *, *:before, *:after {
